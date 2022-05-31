@@ -1,1 +1,1 @@
-# Occupational-Biases-in-Norwegian-and-Multilingual-Language-Models
+# Occupational Biases in Norwegian and Multilingual Language Models
